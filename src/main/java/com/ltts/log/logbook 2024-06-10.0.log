@@ -1,0 +1,94 @@
+2024-06-10 11:11:48.248 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 2600 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 11:11:48.250 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 11:11:48.252 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 11:11:57.105 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 9.415 seconds (process running for 10.473)
+2024-06-10 11:12:00.931 [http-nio-8080-exec-1] INFO  c.ltts.service.employeeServiceImpl-addemployee - Operation succesfully
+2024-06-10 11:25:04.829 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 12824 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 11:25:04.833 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 11:25:04.834 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 11:25:12.774 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 8.454 seconds (process running for 9.475)
+2024-06-10 11:25:17.340 [http-nio-8080-exec-2] WARN  c.ltts.service.employeeServiceImpl-addemployee - Data Present already
+2024-06-10 14:22:48.953 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 1552 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 14:22:48.958 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 14:22:48.960 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 14:22:56.520 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 8.138 seconds (process running for 9.582)
+2024-06-10 14:23:12.101 [http-nio-8080-exec-2] INFO  c.ltts.service.employeeServiceImpl-addemployee - Operation succesfully
+2024-06-10 14:24:41.134 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 25460 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 14:24:41.138 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 14:24:41.139 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 14:24:46.334 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 5.595 seconds (process running for 6.702)
+2024-06-10 14:24:49.795 [http-nio-8080-exec-1] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-10 14:25:07.723 [http-nio-8080-exec-4] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-10 14:25:11.334 [http-nio-8080-exec-5] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-10 14:25:27.757 [http-nio-8080-exec-7] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-10 14:26:01.678 [http-nio-8080-exec-10] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 14:26:11.426 [http-nio-8080-exec-2] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 14:26:44.330 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 15184 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 14:26:44.332 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 14:26:44.333 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 14:26:49.636 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 5.694 seconds (process running for 7.008)
+2024-06-10 14:26:58.656 [http-nio-8080-exec-2] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 14:34:56.188 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 5416 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 14:34:56.193 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 14:34:56.195 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 14:35:03.144 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 7.604 seconds (process running for 9.453)
+2024-06-10 14:35:49.310 [http-nio-8080-exec-1] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-10 14:35:54.949 [http-nio-8080-exec-3] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-10 14:36:16.853 [http-nio-8080-exec-5] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 14:36:39.109 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 26952 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 14:36:39.113 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 14:36:39.114 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 14:36:44.902 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 6.225 seconds (process running for 7.745)
+2024-06-10 14:36:55.487 [http-nio-8080-exec-1] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 14:37:21.906 [http-nio-8080-exec-4] INFO  c.ltts.service.employeeServiceImpl-addemployee - Operation succesfully
+2024-06-10 14:39:02.748 [http-nio-8080-exec-8] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 15:37:31.500 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 24412 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 15:37:31.519 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 15:37:31.520 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 15:39:24.302 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 21792 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 15:39:24.305 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 15:39:24.307 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 15:40:56.461 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 24136 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 15:40:56.464 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 15:40:56.466 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 15:41:01.867 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 5.806 seconds (process running for 6.886)
+2024-06-10 15:41:10.262 [http-nio-8080-exec-1] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 15:44:28.275 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 2088 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 15:44:28.275 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 15:44:28.275 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 15:44:33.605 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 5.755 seconds (process running for 6.861)
+2024-06-10 15:44:38.857 [http-nio-8080-exec-2] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-10 15:44:47.450 [http-nio-8080-exec-3] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-10 15:47:18.079 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 21000 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 15:47:18.081 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 15:47:18.082 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 15:47:23.243 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 5.571 seconds (process running for 6.64)
+2024-06-10 15:47:28.531 [http-nio-8080-exec-2] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 15:47:53.886 [http-nio-8080-exec-3] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 15:48:10.271 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16912 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 15:48:10.273 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 15:48:10.274 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 15:48:15.231 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 5.349 seconds (process running for 6.417)
+2024-06-10 15:48:24.202 [http-nio-8080-exec-2] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 15:50:41.880 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 6340 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 15:50:41.883 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 15:50:41.884 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 15:50:48.254 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 6.874 seconds (process running for 8.178)
+2024-06-10 15:51:13.034 [http-nio-8080-exec-3] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-10 17:23:32.150 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 24360 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 17:23:32.153 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 17:23:32.154 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 17:24:42.718 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16924 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 17:24:42.720 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 17:24:42.722 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 17:26:29.270 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 19008 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 17:26:29.273 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 17:26:29.274 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 17:27:36.893 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 2492 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 17:27:36.896 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 17:27:36.897 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 17:27:58.922 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 5996 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-10 17:27:58.925 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-10 17:27:58.928 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-10 17:28:04.014 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 5.474 seconds (process running for 6.592)
+2024-06-10 17:28:13.369 [http-nio-8080-exec-1] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully

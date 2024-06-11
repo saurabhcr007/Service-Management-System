@@ -1,0 +1,152 @@
+2024-06-11 10:12:00.878 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 23188 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 10:12:00.881 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 10:12:00.883 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 10:12:07.114 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 6.678 seconds (process running for 8.094)
+2024-06-11 10:12:15.936 [http-nio-8080-exec-1] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-11 10:12:54.054 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 23188 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 10:12:54.055 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 10:12:54.055 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 10:12:54.893 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 0.869 seconds (process running for 55.873)
+2024-06-11 10:12:59.060 [http-nio-8080-exec-2] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-11 10:13:16.021 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 23188 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 10:13:16.021 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 10:13:16.022 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 10:13:16.784 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 0.79 seconds (process running for 77.764)
+2024-06-11 10:13:18.326 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 23188 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 10:13:18.327 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 10:13:18.327 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 10:13:19.085 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 0.785 seconds (process running for 80.065)
+2024-06-11 10:13:21.034 [http-nio-8080-exec-2] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-11 10:13:30.713 [http-nio-8080-exec-4] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-11 10:35:17.196 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 14504 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 10:35:17.199 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 10:35:17.200 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 10:35:22.716 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 5.924 seconds (process running for 7.095)
+2024-06-11 10:35:28.685 [http-nio-8080-exec-1] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-11 11:04:53.340 [http-nio-8080-exec-5] INFO  c.ltts.controller.EmployeeController-welcome - Welcome to web application
+2024-06-11 11:05:10.170 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 14504 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 11:05:10.171 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 11:05:10.171 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 11:05:11.583 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 1.457 seconds (process running for 1795.965)
+2024-06-11 11:05:49.175 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 14504 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 11:05:49.176 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 11:05:49.176 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 11:05:50.047 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 0.898 seconds (process running for 1834.429)
+2024-06-11 11:05:51.621 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 14504 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 11:05:51.622 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 11:05:51.622 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 11:05:52.575 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 0.99 seconds (process running for 1836.957)
+2024-06-11 11:05:58.398 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 14504 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 11:05:58.399 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 11:05:58.400 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 11:06:00.002 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 1.698 seconds (process running for 1844.384)
+2024-06-11 11:06:00.768 [http-nio-8080-exec-2] INFO  c.ltts.controller.EmployeeController-welcome - Welcome to Employee Controller
+2024-06-11 11:06:01.530 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 14504 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 11:06:01.530 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 11:06:01.531 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 11:06:02.286 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 0.781 seconds (process running for 1846.667)
+2024-06-11 11:06:04.668 [http-nio-8080-exec-2] INFO  c.ltts.controller.EmployeeController-welcome - Welcome to Employee Controller
+2024-06-11 11:55:18.950 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 11856 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 11:55:18.960 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 11:55:18.961 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 11:55:19.297 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 12332 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 11:55:19.310 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 11:55:19.316 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 11:55:34.687 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 16.721 seconds (process running for 20.655)
+2024-06-11 11:57:48.857 [http-nio-8080-exec-2] INFO  c.ltts.controller.EmployeeController-welcome - Welcome to Employee Controller
+2024-06-11 11:59:49.832 [http-nio-8080-exec-7] INFO  c.ltts.service.employeeServiceImpl-addemployee - Operation succesfully
+2024-06-11 12:00:51.278 [http-nio-8080-exec-10] INFO  c.ltts.service.employeeServiceImpl-addemployee - Operation succesfully
+2024-06-11 12:01:12.680 [http-nio-8080-exec-1] INFO  c.ltts.service.employeeServiceImpl-addemployee - Operation succesfully
+2024-06-11 12:01:40.341 [http-nio-8080-exec-2] INFO  c.ltts.service.employeeServiceImpl-addemployee - Operation succesfully
+2024-06-11 12:02:17.785 [http-nio-8080-exec-3] INFO  c.ltts.service.employeeServiceImpl-addemployee - Operation succesfully
+2024-06-11 14:08:12.019 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 12668 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 14:08:12.023 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 14:08:12.025 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 14:08:19.109 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 7.619 seconds (process running for 9.937)
+2024-06-11 14:09:34.570 [http-nio-8080-exec-4] INFO  c.ltts.service.employeeServiceImpl-updateemployee - Operation succesfully
+2024-06-11 14:10:11.235 [http-nio-8080-exec-6] INFO  c.ltts.service.employeeServiceImpl-deleteemployee - Operation succesfully
+2024-06-11 14:10:30.592 [http-nio-8080-exec-7] INFO  c.ltts.controller.ServiceController-welcome - Welcome to Service Controller
+2024-06-11 14:11:24.071 [http-nio-8080-exec-8] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-11 14:11:34.333 [http-nio-8080-exec-9] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-11 14:11:44.831 [http-nio-8080-exec-10] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-11 14:11:56.508 [http-nio-8080-exec-1] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-11 14:12:08.161 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-11 14:12:17.771 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-11 14:12:52.108 [http-nio-8080-exec-5] INFO  com.ltts.service.ServiceServiceImpl-updateservice - Operation succesfully
+2024-06-11 14:12:56.547 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-11 14:13:09.788 [http-nio-8080-exec-6] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-11 14:13:23.110 [http-nio-8080-exec-7] INFO  com.ltts.service.ServiceServiceImpl-deleteservice - Operation succesfully
+2024-06-11 14:13:34.979 [http-nio-8080-exec-8] INFO  c.l.controller.ServiceUsedController-welcome - Welcome to Service Used Controller
+2024-06-11 14:13:53.510 [http-nio-8080-exec-9] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-11 14:14:02.005 [http-nio-8080-exec-10] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-11 14:14:17.334 [http-nio-8080-exec-3] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-11 14:14:21.688 [http-nio-8080-exec-5] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-11 14:14:26.764 [http-nio-8080-exec-4] INFO  c.l.service.ServiceUsedServiceImpl-addserviceused - Operation succesfully
+2024-06-11 14:15:13.033 [http-nio-8080-exec-7] INFO  c.l.service.ServiceUsedServiceImpl-updateserviceused - Operation succesfully
+2024-06-11 14:15:31.015 [http-nio-8080-exec-9] INFO  c.l.service.ServiceUsedServiceImpl-deleteserviceused - Operation succesfully
+2024-06-11 14:15:39.196 [http-nio-8080-exec-10] INFO  c.ltts.controller.ServiceController-welcome - Welcome to Vendor Controller
+2024-06-11 14:16:05.171 [http-nio-8080-exec-1] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-11 14:16:11.520 [http-nio-8080-exec-2] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-11 14:16:19.759 [http-nio-8080-exec-3] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-11 14:16:28.362 [http-nio-8080-exec-5] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-11 14:16:34.339 [http-nio-8080-exec-4] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-11 14:16:39.878 [http-nio-8080-exec-6] INFO  com.ltts.service.VendorServiceImpl-getvendor - Operation succesfully
+2024-06-11 14:16:57.851 [http-nio-8080-exec-7] INFO  com.ltts.service.VendorServiceImpl-updatevendor - Operation succesfully
+2024-06-11 14:17:05.296 [http-nio-8080-exec-8] INFO  com.ltts.service.VendorServiceImpl-getvendor - Operation succesfully
+2024-06-11 14:17:25.542 [http-nio-8080-exec-9] INFO  com.ltts.service.VendorServiceImpl-deletevendor - Operation succesfully
+2024-06-11 14:17:35.642 [http-nio-8080-exec-10] INFO  com.ltts.service.VendorServiceImpl-getvendor - Operation succesfully
+2024-06-11 14:17:44.918 [http-nio-8080-exec-1] INFO  c.ltts.controller.ServiceController-welcome - Welcome to Vendor Service Mapping Controller
+2024-06-11 14:18:15.952 [http-nio-8080-exec-5] INFO  c.l.s.VendorServiceMappingServiceImpl-addvendorservicemapping - Operation succesfully
+2024-06-11 14:18:22.697 [http-nio-8080-exec-4] INFO  c.l.s.VendorServiceMappingServiceImpl-addvendorservicemapping - Operation succesfully
+2024-06-11 14:18:28.532 [http-nio-8080-exec-6] INFO  c.l.s.VendorServiceMappingServiceImpl-addvendorservicemapping - Operation succesfully
+2024-06-11 14:18:34.537 [http-nio-8080-exec-7] INFO  c.l.s.VendorServiceMappingServiceImpl-addvendorservicemapping - Operation succesfully
+2024-06-11 14:18:38.590 [http-nio-8080-exec-8] INFO  c.l.s.VendorServiceMappingServiceImpl-addvendorservicemapping - Operation succesfully
+2024-06-11 14:18:42.794 [http-nio-8080-exec-9] INFO  c.l.s.VendorServiceMappingServiceImpl-getvendorservicemapping - Operation succesfully
+2024-06-11 14:19:03.707 [http-nio-8080-exec-10] WARN  c.l.s.VendorServiceMappingServiceImpl-updatevendorservicemapping - No data found
+2024-06-11 14:19:06.330 [http-nio-8080-exec-1] INFO  c.l.s.VendorServiceMappingServiceImpl-getvendorservicemapping - Operation succesfully
+2024-06-11 14:19:23.906 [http-nio-8080-exec-2] WARN  c.l.s.VendorServiceMappingServiceImpl-deletevendorservicemapping - No data found
+2024-06-11 14:19:35.541 [http-nio-8080-exec-3] INFO  c.l.s.VendorServiceMappingServiceImpl-deletevendorservicemapping - Operation succesfully
+2024-06-11 14:19:38.526 [http-nio-8080-exec-5] INFO  c.l.s.VendorServiceMappingServiceImpl-getvendorservicemapping - Operation succesfully
+2024-06-11 14:37:58.251 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 17956 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 14:37:58.254 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 14:37:58.255 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 14:38:05.509 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 7.787 seconds (process running for 9.534)
+2024-06-11 14:38:14.271 [http-nio-8080-exec-2] INFO  com.ltts.service.VendorServiceImpl-getvendor - Operation succesfully
+2024-06-11 14:38:25.822 [http-nio-8080-exec-3] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-11 14:38:30.531 [http-nio-8080-exec-4] INFO  com.ltts.service.VendorServiceImpl-getvendor - Operation succesfully
+2024-06-11 14:38:48.826 [http-nio-8080-exec-5] INFO  com.ltts.service.VendorServiceImpl-updatevendor - Operation succesfully
+2024-06-11 14:38:55.218 [http-nio-8080-exec-6] INFO  com.ltts.service.VendorServiceImpl-getvendor - Operation succesfully
+2024-06-11 14:39:00.280 [http-nio-8080-exec-7] INFO  com.ltts.service.VendorServiceImpl-updatevendor - Operation succesfully
+2024-06-11 14:39:02.657 [http-nio-8080-exec-8] INFO  com.ltts.service.VendorServiceImpl-getvendor - Operation succesfully
+2024-06-11 14:57:37.169 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 22240 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 14:57:37.169 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 14:57:37.169 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 14:57:42.911 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 6.121 seconds (process running for 7.435)
+2024-06-11 14:57:45.914 [http-nio-8080-exec-2] INFO  c.ltts.controller.EmployeeController-welcome - Welcome to Employee Controller
+2024-06-11 14:58:47.274 [http-nio-8080-exec-5] INFO  c.ltts.controller.ServiceController-welcome - Welcome to Service Controller
+2024-06-11 14:58:59.375 [http-nio-8080-exec-6] WARN  com.ltts.service.ServiceServiceImpl-addservice - Data Present already
+2024-06-11 14:59:09.154 [http-nio-8080-exec-7] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-11 15:00:55.840 [http-nio-8080-exec-10] INFO  com.ltts.service.VendorServiceImpl-getvendor - Operation succesfully
+2024-06-11 15:01:05.582 [http-nio-8080-exec-1] INFO  com.ltts.service.VendorServiceImpl-updatevendor - Operation succesfully
+2024-06-11 15:02:22.978 [http-nio-8080-exec-4] INFO  c.ltts.controller.ServiceController-welcome - Welcome to Vendor Service Mapping Controller
+2024-06-11 15:02:27.219 [http-nio-8080-exec-5] WARN  c.l.s.VendorServiceMappingServiceImpl-deletevendorservicemapping - No data found
+2024-06-11 15:08:49.752 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 22240 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 15:08:49.753 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 15:08:49.753 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 15:08:51.108 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 1.411 seconds (process running for 675.633)
+2024-06-11 15:13:48.508 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 22240 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 15:13:48.508 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 15:13:48.508 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 15:13:49.648 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 1.187 seconds (process running for 974.187)
+2024-06-11 15:18:48.696 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 22240 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 15:18:48.696 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 15:18:48.696 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 15:18:49.387 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 0.715 seconds (process running for 1273.915)
+2024-06-11 15:24:28.652 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 9320 (D:\java backend\testsubjectMsSQL\target\classes started by 40038450 in D:\java backend\testsubjectMsSQL)
+2024-06-11 15:24:28.656 [restartedMain] DEBUG c.l.testsubjectMsSQL.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-11 15:24:28.657 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-11 15:24:34.715 [restartedMain] INFO  c.l.testsubjectMsSQL.SpringBootApp-logStarted - Started SpringBootApp in 6.588 seconds (process running for 8.237)
+2024-06-11 15:25:58.933 [http-nio-8080-exec-5] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-11 15:27:16.345 [http-nio-8080-exec-8] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-11 15:27:47.174 [http-nio-8080-exec-9] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-11 15:27:51.580 [http-nio-8080-exec-10] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully

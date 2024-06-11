@@ -1,0 +1,350 @@
+2024-06-05 10:32:42.341 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 13924 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 10:32:42.343 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 10:32:42.345 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 10:32:49.608 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 8.226 seconds (process running for 9.255)
+2024-06-05 10:33:30.589 [http-nio-8080-exec-2] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-05 10:38:53.051 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 2332 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 10:38:53.055 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 10:38:53.056 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 10:39:00.428 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 9.858 seconds (process running for 10.852)
+2024-06-05 10:39:10.046 [http-nio-8080-exec-2] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-05 10:51:44.323 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 29564 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 10:51:44.326 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 10:51:44.328 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 10:51:51.535 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 7.703 seconds (process running for 8.843)
+2024-06-05 10:52:00.469 [http-nio-8080-exec-1] WARN  com.ltts.service.VendorServiceImpl-addvendor - Data Present already
+2024-06-05 10:54:02.879 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 10:54:02.883 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 10:54:02.884 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 10:54:09.537 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 7.171 seconds (process running for 8.091)
+2024-06-05 10:54:22.094 [http-nio-8080-exec-2] INFO  c.ltts.controller.ServiceController-welcome - Welcome to web application
+2024-06-05 10:54:33.398 [http-nio-8080-exec-3] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-05 10:54:41.323 [http-nio-8080-exec-4] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-05 10:54:47.948 [http-nio-8080-exec-5] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-05 10:54:57.461 [http-nio-8080-exec-6] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-05 10:55:05.710 [http-nio-8080-exec-7] INFO  com.ltts.service.VendorServiceImpl-addvendor - Operation succesfully
+2024-06-05 10:56:02.169 [http-nio-8080-exec-8] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 10:56:23.203 [http-nio-8080-exec-9] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 10:56:30.646 [http-nio-8080-exec-10] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 10:56:35.571 [http-nio-8080-exec-1] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 10:56:41.620 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 10:57:06.710 [http-nio-8080-exec-3] WARN  com.ltts.service.ServiceServiceImpl-addservice - Data Present already
+2024-06-05 10:58:14.430 [http-nio-8080-exec-6] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 10:58:54.577 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 10:58:54.578 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 10:58:54.579 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 10:58:55.514 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.971 seconds (process running for 294.067)
+2024-06-05 10:59:17.482 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 10:59:17.483 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 10:59:17.484 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 10:59:19.100 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.656 seconds (process running for 317.654)
+2024-06-05 10:59:20.755 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 10:59:20.756 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 10:59:20.758 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 10:59:22.914 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 2.238 seconds (process running for 321.468)
+2024-06-05 10:59:28.222 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 10:59:50.015 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 10:59:50.016 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 10:59:50.017 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 10:59:50.894 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.911 seconds (process running for 349.448)
+2024-06-05 10:59:52.469 [http-nio-8080-exec-2] WARN  com.ltts.service.ServiceServiceImpl-addservice - Data Present already
+2024-06-05 10:59:58.637 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:00:16.913 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:00:57.197 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:00:57.199 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:00:57.200 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:00:58.507 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.341 seconds (process running for 417.062)
+2024-06-05 11:01:00.100 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:01:00.100 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:01:00.100 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:01:00.952 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.894 seconds (process running for 419.507)
+2024-06-05 11:01:26.906 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:01:43.768 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:02:07.043 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:02:07.044 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:02:07.045 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:02:08.527 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.54 seconds (process running for 487.082)
+2024-06-05 11:02:09.308 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:02:22.361 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:02:42.020 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:03:54.271 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:03:54.272 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:03:54.272 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:03:55.207 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.962 seconds (process running for 593.763)
+2024-06-05 11:03:57.807 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:03:57.810 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:03:57.812 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:03:58.809 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.039 seconds (process running for 597.366)
+2024-06-05 11:04:18.998 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:04:18.999 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:04:18.999 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:04:19.718 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.753 seconds (process running for 618.275)
+2024-06-05 11:04:23.387 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:04:23.387 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:04:23.387 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:04:24.122 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.767 seconds (process running for 622.679)
+2024-06-05 11:04:25.705 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:04:25.706 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:04:25.706 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:04:26.430 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.748 seconds (process running for 624.986)
+2024-06-05 11:04:38.397 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:04:38.398 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:04:38.398 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:04:40.442 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:04:40.443 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:04:40.443 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:04:50.655 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:04:50.656 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:04:50.657 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:04:51.442 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.829 seconds (process running for 649.999)
+2024-06-05 11:05:00.985 [http-nio-8080-exec-1] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:05:17.911 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:05:17.911 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:05:17.913 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:05:18.642 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.758 seconds (process running for 677.198)
+2024-06-05 11:05:20.338 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:05:20.339 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:05:20.339 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:05:21.244 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.945 seconds (process running for 679.8)
+2024-06-05 11:05:43.600 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:05:43.601 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:05:43.601 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:05:44.196 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.618 seconds (process running for 702.753)
+2024-06-05 11:05:49.147 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:08:54.896 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:08:54.896 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:08:54.896 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:08:56.020 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.17 seconds (process running for 894.578)
+2024-06-05 11:09:27.691 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:09:27.691 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:09:27.692 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:09:28.367 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.7 seconds (process running for 926.924)
+2024-06-05 11:09:32.088 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:09:32.088 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:09:32.088 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:09:32.894 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.852 seconds (process running for 931.451)
+2024-06-05 11:09:34.541 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:09:34.542 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:09:34.542 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:09:35.193 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.683 seconds (process running for 933.751)
+2024-06-05 11:09:41.018 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:09:41.018 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:09:41.019 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:09:41.888 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.899 seconds (process running for 940.445)
+2024-06-05 11:09:43.588 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:09:43.588 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:09:43.588 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:09:44.335 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.785 seconds (process running for 942.893)
+2024-06-05 11:09:56.873 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:10:20.433 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:10:20.433 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:10:20.434 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:10:20.893 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.488 seconds (process running for 979.451)
+2024-06-05 11:10:30.027 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:13:55.240 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:13:55.240 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:13:55.240 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:13:55.887 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.682 seconds (process running for 1194.446)
+2024-06-05 11:14:10.317 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:14:10.317 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:14:10.317 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:14:10.945 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.666 seconds (process running for 1209.503)
+2024-06-05 11:14:15.715 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:14:15.715 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:14:15.716 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:14:16.596 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.926 seconds (process running for 1215.154)
+2024-06-05 11:14:19.557 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:15:28.720 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:15:28.720 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:15:28.721 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:15:29.272 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.578 seconds (process running for 1287.83)
+2024-06-05 11:15:30.878 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:15:30.878 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:15:30.878 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:15:31.402 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.546 seconds (process running for 1289.96)
+2024-06-05 11:15:34.034 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:15:34.034 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:15:34.035 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:15:34.759 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.745 seconds (process running for 1293.317)
+2024-06-05 11:15:51.282 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:17:18.550 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:17:18.556 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:17:18.556 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:17:20.356 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:17:20.356 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:17:20.357 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:17:33.631 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:17:33.632 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:17:33.632 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:17:34.094 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.49 seconds (process running for 1412.649)
+2024-06-05 11:17:37.158 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:17:37.159 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:17:37.159 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:17:38.867 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:17:38.867 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:17:38.867 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:17:57.124 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:17:57.124 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:17:57.125 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:17:59.721 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 16752 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:17:59.722 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:17:59.722 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:18:00.404 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.72 seconds (process running for 1438.959)
+2024-06-05 11:18:07.768 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:19:41.207 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 6208 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:19:41.210 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:19:41.211 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:19:52.098 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 11.672 seconds (process running for 13.485)
+2024-06-05 11:19:59.312 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:27:12.331 [http-nio-8080-exec-5] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:30:23.365 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:30:23.368 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:30:23.370 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:30:31.723 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 9.074 seconds (process running for 10.568)
+2024-06-05 11:30:43.018 [http-nio-8080-exec-1] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:30:49.614 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:30:53.204 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:31:24.299 [http-nio-8080-exec-6] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:32:38.696 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:32:38.697 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:32:38.698 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:32:40.962 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 2.378 seconds (process running for 139.807)
+2024-06-05 11:32:42.559 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:32:42.561 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:32:42.562 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:32:43.827 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.318 seconds (process running for 142.672)
+2024-06-05 11:32:46.425 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:32:46.426 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:32:46.427 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:32:47.348 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.963 seconds (process running for 146.193)
+2024-06-05 11:32:49.951 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:32:49.952 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:32:49.952 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:32:51.103 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.202 seconds (process running for 149.948)
+2024-06-05 11:32:52.738 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:32:52.739 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:32:52.739 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:32:53.929 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.228 seconds (process running for 152.774)
+2024-06-05 11:32:55.130 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:33:06.226 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:33:09.345 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:33:30.806 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:30.807 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:30.808 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:31.816 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.057 seconds (process running for 190.661)
+2024-06-05 11:33:34.361 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:34.361 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:34.362 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:35.479 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.151 seconds (process running for 194.323)
+2024-06-05 11:33:37.060 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:37.061 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:37.061 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:37.977 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.945 seconds (process running for 196.821)
+2024-06-05 11:33:42.688 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:42.690 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:42.691 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:43.434 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.781 seconds (process running for 202.278)
+2024-06-05 11:33:46.100 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:46.101 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:46.102 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:47.101 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.029 seconds (process running for 205.944)
+2024-06-05 11:33:48.697 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:48.698 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:48.699 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:49.371 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.709 seconds (process running for 208.215)
+2024-06-05 11:33:50.959 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:50.959 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:50.960 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:51.608 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.68 seconds (process running for 210.452)
+2024-06-05 11:33:56.347 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:56.348 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:56.348 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:57.065 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.749 seconds (process running for 215.909)
+2024-06-05 11:33:58.720 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:33:58.720 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:33:58.721 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:33:59.280 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.597 seconds (process running for 218.123)
+2024-06-05 11:34:02.336 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:34:02.337 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:34:02.337 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:34:03.057 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.757 seconds (process running for 221.901)
+2024-06-05 11:34:04.689 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:34:04.689 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:34:04.690 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:34:05.527 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.864 seconds (process running for 224.371)
+2024-06-05 11:34:07.130 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:34:07.131 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:34:07.131 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:34:07.671 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.566 seconds (process running for 226.515)
+2024-06-05 11:34:09.281 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:34:09.282 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:34:09.282 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:34:09.957 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.705 seconds (process running for 228.8)
+2024-06-05 11:34:11.573 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 8384 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:34:11.573 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:34:11.574 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:34:12.264 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.714 seconds (process running for 231.108)
+2024-06-05 11:34:22.899 [http-nio-8080-exec-2] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:34:40.125 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:36:48.715 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 1228 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:36:48.720 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:36:48.722 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:36:57.743 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 9.781 seconds (process running for 11.183)
+2024-06-05 11:37:07.744 [http-nio-8080-exec-1] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:37:10.611 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:37:19.545 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:37:23.482 [http-nio-8080-exec-5] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:46:26.143 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:46:26.149 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:46:26.152 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:46:34.305 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 8.904 seconds (process running for 10.21)
+2024-06-05 11:46:48.741 [http-nio-8080-exec-1] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:47:24.645 [http-nio-8080-exec-3] INFO  com.ltts.service.ServiceServiceImpl-addservice - Operation succesfully
+2024-06-05 11:47:52.743 [http-nio-8080-exec-4] INFO  com.ltts.service.ServiceServiceImpl-getservice - Operation succesfully
+2024-06-05 11:50:18.333 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:18.333 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:18.334 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:19.556 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.275 seconds (process running for 235.463)
+2024-06-05 11:50:22.295 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:22.296 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:22.297 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:23.385 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.135 seconds (process running for 239.291)
+2024-06-05 11:50:25.094 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:25.096 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:25.097 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:26.237 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.206 seconds (process running for 242.143)
+2024-06-05 11:50:30.155 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:30.157 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:30.164 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:31.383 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.355 seconds (process running for 247.289)
+2024-06-05 11:50:32.997 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:32.997 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:32.997 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:34.396 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.464 seconds (process running for 250.302)
+2024-06-05 11:50:37.018 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:37.020 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:37.020 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:40.301 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:40.302 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:40.304 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:41.450 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.207 seconds (process running for 257.356)
+2024-06-05 11:50:43.038 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:43.038 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:43.038 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:44.032 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 1.025 seconds (process running for 259.938)
+2024-06-05 11:50:48.721 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:50:48.721 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:50:48.722 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:50:49.486 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.796 seconds (process running for 265.392)
+2024-06-05 11:55:49.414 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:55:49.415 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:55:49.416 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:55:50.358 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.988 seconds (process running for 566.277)
+2024-06-05 11:58:14.406 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:58:14.407 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:58:14.407 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:58:15.085 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.701 seconds (process running for 710.998)
+2024-06-05 11:58:16.644 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarting - Starting SpringBootApp using Java 17.0.9 with PID 20308 (D:\java backend\testsubject\target\classes started by 40038450 in D:\java backend\testsubject)
+2024-06-05 11:58:16.645 [restartedMain] DEBUG com.ltts.testsubject.SpringBootApp-logStarting - Running with Spring Boot v3.1.5, Spring v6.0.13
+2024-06-05 11:58:16.645 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+2024-06-05 11:58:17.235 [restartedMain] INFO  com.ltts.testsubject.SpringBootApp-logStarted - Started SpringBootApp in 0.613 seconds (process running for 713.148)
